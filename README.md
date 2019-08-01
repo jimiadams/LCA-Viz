@@ -5,6 +5,7 @@ What is included here is as follows:
 
 ## [Full Manuscript](https://jimiadams.github.io/LCA-VIz/)
 This file is the our penultimate version of the manuscript that was published in *Socius*. It alters the main inline visualization slightly from the published version. In the published version we use the [fmsb](https://cran.r-project.org/web/packages/fmsb/index.html) package for generating the radar plots. While those are easy to implement, they are optimized for print-based presentation. Here we also generate a more "interactive" version for online presentation using the [plotly](https://cran.r-project.org/web/packages/plotly/index.html) package.
+NOTE: This page will be posted upon publication.
 
 ## LCA-Viz_fmsb.R
 This file is code for generating the published version of the visualization. It relies on the radar plots available in the running the [fmsb](https://cran.r-project.org/web/packages/fmsb/index.html) package.
