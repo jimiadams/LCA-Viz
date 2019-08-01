@@ -1,0 +1,21 @@
+Variable,Category,Pink-collar workers without children,Professional workers without children,Professional workers with children,Pink-collar workers with children,Pink-collar part-time workers with children,Mothers without paid employment,Slow starters
+rel.status,Single,52,47.4,11.3,34,24.7,16.4,72.2
+rel.status,Cohabiting,21.8,17.7,12.1,22.5,18,10.1,18.6
+rel.status,Married,26.2,34.9,76.6,43.6,57.3,73.5,9.2
+N.children,None,73.4,92.3,6.1,1.3,2,0.6,71.9
+N.children,One,25.2,7.6,39.3,19.3,23.7,12.6,26.5
+N.children,Two,1.4,0.1,42.1,47.2,47.6,44,1.6
+N.children,Three or more,0,0,12.6,32.2,26.7,42.9,0
+emp.status,Not working,9.6,2.1,8.7,0.2,39.6,90.1,61.9
+emp.status,Part-time,8.8,4.4,11.5,0,58.8,3.1,30.2
+emp.status,Full-time,81.6,93.5,79.9,99.8,1.7,6.7,7.9
+occ.class,Pink-collar,66.7,23.3,26.4,76.7,83.5,79.5,81.3
+occ.class,Professional,33.3,76.7,73.6,23.3,16.6,20.5,18.7
+dm.freedom,Low,39.8,26.4,19,32.2,40.6,52.2,62.9
+dm.freedom,High,60.2,73.6,81,67.8,59.4,47.8,37.1
+earnings,"≤ $10,000",10,0,0.2,19.8,50.9,98.7,74.3
+earnings,"$10,001 - $20,000",23.6,0.2,2.4,31.1,32.3,1.3,21.1
+earnings,"$20,001 - $30,000",40,4.1,17.3,34.9,14.7,0,4.3
+earnings,"$30,001 - $40,000",20.9,24.1,38.1,12.1,2.1,0,0.3
+earnings,"> $40,000",5.4,71.6,42,2.1,0.1,0,0
+Probability of Class Membership, gamma,19.9,16.9,15.1,14.3,12.3,11.1,10.4
