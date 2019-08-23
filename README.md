@@ -14,3 +14,5 @@ This file is code for generating the version of the visualization presented in t
 
 ## data\Lippert_Damaske.csv 
 This file includes the LCA results from Table 2 of Lippert & Damaske's [paper](https://academic.oup.com/sf/advance-article/doi/10.1093/sf/soy117/5253226) in *Social Forces*, which provides the substantive example we use in the paper.
+
+NOTE: I'd *really* like to build a Shiny app that'll do these, but unfortunately I haven't yet found the time to learn how to do that. Maybe it'll happen someday (or by someone else).
