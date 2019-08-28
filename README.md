@@ -1,5 +1,5 @@
 # LCA-Viz
-These files include the code for generating radar plots of posterior probabilities from LCA results, as described in my *Socius* paper with Adam Lippert.
+These files include the code for generating radar plots of posterior probabilities from LCA results, as described in my [*Socius* paper](https://journals.sagepub.com/doi/10.1177/2378023119873498) with Adam Lippert.
 
 What is included here is as follows:
 
